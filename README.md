@@ -24,4 +24,4 @@
 * Python 3.7.3
 * Pandas
 * NumPy
-* seaborn, matplotlib
+* Seaborn, Matplotlib
